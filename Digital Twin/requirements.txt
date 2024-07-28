@@ -1,0 +1,7 @@
+jupyterlab
+ipywidgets
+numpy
+pandas
+geopy
+dash
+plotly
